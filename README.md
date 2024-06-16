@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 About Me
-* I'm a third year CS major attending University of San Francisco.
+* I'm a CS major graduated from the University of San Francisco.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicki-young-968529207/)
